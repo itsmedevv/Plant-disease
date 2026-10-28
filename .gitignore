@@ -14,7 +14,7 @@ ENV/
 data/
 
 # Model checkpoints
-models/*.pt
+# models/*.pt (Commented out so model.pt is included in GitHub for instant demo)
 
 # Evaluation outputs
 outputs/

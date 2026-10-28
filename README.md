@@ -116,9 +116,16 @@ python evaluate.py
 ```
 
 This generates:
-- **Terminal output**: Overall accuracy and per-class precision, recall, and F1-score.
+- **Terminal output**: Overall accuracy (**97.33%**) and per-class precision, recall, and F1-score.
 - **`outputs/classification_report.txt`**: Complete per-class breakdown.
 - **`outputs/confusion_matrix.png`**: High-resolution heatmap of actual vs. predicted labels.
+
+### Visual Results & Explainability
+
+| Confusion Matrix (97.33% Accuracy) | Grad-CAM Explainability Heatmap |
+|:---:|:---:|
+| <img src="assets/confusion_matrix.png" width="400" /> | <img src="assets/gradcam_sample.png" width="400" /> |
+| *High per-class precision & recall across all classes* | *Model accurately focuses on leaf blight lesions* |
 
 ---
 

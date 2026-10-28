@@ -209,9 +209,20 @@ def load_advice(advice_path: str = "advice.json") -> Dict[str, Any]:
 @st.cache_data
 def get_sample_images() -> Dict[str, str]:
     """
-    Finds sample images from the color dataset for quick 1-click testing.
+    Finds sample images from the 'samples/' directory or 'data/' folder for quick 1-click testing.
     """
     samples = {}
+
+    # Check dedicated lightweight samples directory first (works in cloud deployment)
+    samples_dir = Path("samples")
+    if samples_dir.exists():
+        for file in sorted(samples_dir.glob("*.jpg")):
+            class_name = file.stem
+            display_name = format_class_name(class_name)
+            samples[display_name] = str(file)
+        if samples:
+            return samples
+
     base_data = Path("data")
     if not base_data.exists():
         return samples
