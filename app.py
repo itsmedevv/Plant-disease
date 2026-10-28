@@ -13,7 +13,6 @@ import json
 from pathlib import Path
 from typing import Dict, Any, List, Optional, Tuple
 
-import cv2
 import numpy as np
 from PIL import Image
 import streamlit as st
