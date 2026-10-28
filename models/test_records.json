@@ -1,0 +1,1219 @@
+{
+  "test_records": [
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\eb6ec9fb-d564-4736-a18c-bd77cddd0c2a___RS_Late.B 5385.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\4c7b64ad-9bc8-4f71-b481-13ab966f8d6a___Matt.S_CG 7393.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\5ec38b83-47c5-460d-a465-2b8b89e5ce55___GCREC_Bact.Sp 3231.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\32a6609d-e858-4da0-a153-b59b4de976b7___PSU_CG 2061.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\af7f7827-2e38-4f58-9abb-fcf663a4a3c6___Com.G_SpM_FL 9495.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\70ef7eee-0584-44fc-9c5d-95b504554266___RS_Erly.B 7709.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\d9fdbaad-4cf2-4214-bd39-5f640f517260___Crnl_L.Mold 7051.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\8b43c3f3-73ae-47bc-a620-079ebeeb10a4___PSU_CG 2094.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\50a64fa8-b9c4-4680-8a60-59b128571bf2___Com.G_SpM_FL 8929.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\fc5d2094-6116-423e-9d2a-a0cc1c7b19af___Matt.S_CG 2529.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\263f99b9-9604-42c3-9a7f-687973b8dc79___PSU_CG 2280.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\603c6233-8cc0-4bb7-97f3-0e5db1614c63___RS_Erly.B 9398.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\28fc4b35-8b20-4bd0-8e41-c1ef7093ff33___Crnl_L.Mold 6755.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\62ba6c10-2e36-48ed-9f8b-f26cd5884666___GHLB2 Leaf 8828.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\3f310f1d-9837-4e44-ab1e-cfd22cae224b___JR_Sept.L.S 8386.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\655548d9-468b-4075-88b6-ba187d4035ec___Matt.S_CG 7549.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\1a9a2cbf-75f3-4dd9-93ef-3d3c58e97d06___GHLB2 Leaf 8666.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\271772e3-6aeb-4d46-9233-ad877d12971f___PSU_CG 2317.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\c95ec538-9ce6-4ed7-9ba8-224debe0ee64___UF.GRC_BS_Lab Leaf 0891.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\d633dfc9-74f2-4fbc-b540-3b87a53807d0___Crnl_L.Mold 9106.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\2ab0515e-1f93-4c3b-991a-6cf131661c22___GHLB2 Leaf 8629.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\281da113-7611-44bf-9df7-b742fcbce900___JR_Sept.L.S 8568.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\4e5f8530-2696-433d-91ec-5f53488b1d18___RS_Erly.B 8299.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\9876590b-d8fd-48b0-9b48-c8ed707db6f8___PSU_CG 2127.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\9155ae3a-ecb2-4744-b60b-60f96f4e3ba8___PSU_CG 2191.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\3eb58ecd-dff2-47e6-a7a9-81fc4b75ada0___GCREC_Bact.Sp 5563.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\1512a5b8-2c65-4abb-8003-ee207d10ac5a___Matt.S_CG 2803.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\cb602835-7f6d-4926-80b4-77fe22f7ff66___GH_HL Leaf 226.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\cf7105a7-3ba3-4676-af9b-131e89655464___UF.GRC_YLCV_Lab 03318.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\9bedf503-beca-40b4-b1d1-6c12e96343f3___Com.G_SpM_FL 1481.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\10e51f80-5ecc-4780-81ee-5d9db5aa4e53___Com.G_SpM_FL 9408.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\a461c5ba-c3c2-415c-a72e-10f8e6b49613___Com.G_SpM_FL 1780.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\c2a64948-bda7-4a89-aec6-be714ba7cf99___RS_Erly.B 8330.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\9656bc21-12c3-420c-a316-d2bf46b5fd0a___RS_HL 0316.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\8c24d828-453c-4a03-8899-c7358d6da8c1___Com.G_TgS_FL 8401.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\5c49d086-dc47-480e-b5b1-0b69bacb66bf___PSU_CG 2241.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\1efb352f-b742-4654-a61d-bd9d8f38049b___Com.G_SpM_FL 8638.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\0edb366d-1253-4498-a05a-8f666405edc6___Matt.S_CG 7862.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\12125c80-42e3-4970-bb92-524262c337fa___GHLB_PS Leaf 8.1 Day 7.jpg",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\cf7d8916-0dc4-4636-85cf-7552c87e13bb___Crnl_L.Mold 9069.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\ba4daa67-29a8-4d0b-a21e-a27406bb840d___RS_HL 9714.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\08e45674-8d1e-4c3c-804a-663d9fef1ead___PSU_CG 2249.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\983a04ad-2cc6-4d78-9365-a67012b4ffdc___RS_Erly.B 7661.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\fea5289e-4a3a-4891-bbcc-fb38b75a23f9___UF.GRC_BS_Lab Leaf 1164.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\8ed42b66-acb0-42d9-a1d8-f624573e07d0___GH_HL Leaf 212.8.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\77ac0ab9-bc81-4de6-8f4d-72d15974d227___RS_Erly.B 7773.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\cc76b3ae-c1e0-4f0a-b7a0-9696a18079e5___Com.G_SpM_FL 9531.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\2353e9af-9267-4262-840e-1eb109fff56c___RS_Late.B 5135.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\544fbdc4-17a2-45c8-847d-fd31731a9d25___Keller.St_CG 1848.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\dccceb76-131a-4ce3-a864-5e46cf863c09___PSU_CG 2336.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\67001860-5fda-495c-b2fb-a036f21448f8___Crnl_L.Mold 8838.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\50ac802c-b814-4faf-b0d5-a7bc012747eb___GH_HL Leaf 315.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\82fbc047-1d50-4da4-9e1a-befe7ebfc42e___Com.G_SpM_FL 1604.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\5a5bbff6-4eae-4bda-ad08-f781109979cb___Com.G_SpM_FL 1175.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\650abe19-6687-4d96-ad08-1c887b8c2a62___JR_Sept.L.S 8497.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\7f9588b9-0bdc-4c29-9d84-bddf86c9c453___Matt.S_CG 7383.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\6c3feee9-23a8-46c4-8ded-5b0ef2e49ff5___RS_Erly.B 9370.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\a36909f2-39bf-4ec8-b7bd-920cd3167042___Com.G_SpM_FL 9373.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\4024f51d-f79c-44dc-8ab9-61adf6005644___Com.G_SpM_FL 1248.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\0d63c167-dff7-4486-983f-c46183a1a210___YLCV_GCREC 2262.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\d851f069-a167-4136-b21f-73a85f6f2126___Crnl_L.Mold 8957.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\8275c408-1ce2-4b4b-a6de-b7a0b373ad05___GHLB2 Leaf 8741.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\583887a3-a071-4735-8d92-821d1f2e5ef0___Matt.S_CG 6045.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\4c969379-50fc-4b44-b7fa-5c132fa4329e___UF.GRC_YLCV_Lab 03377.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\072f9c7d-c296-49d9-a432-6ec9448cab2a___GCREC_Bact.Sp 3558.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\bc894aa4-76ca-427e-a964-e86236fc0217___RS_Erly.B 7526.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\d1a9ea23-47c5-49ee-98e6-1e6b76fca991___Com.G_TgS_FL 9952.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\eacb7fe2-5c0a-4058-a7d7-a2270faee988___RS_HL 9654.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\aa464ad5-f7d0-44ee-9042-fb4a4a64b7cd___RS_HL 9936.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\85a1cefe-dfd8-4f9a-b852-da2aba419be7___GCREC_Bact.Sp 5658.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\41b84dbf-0402-4480-a0b2-55ab4686dcdf___Crnl_L.Mold 8933.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\b12f3967-aa7e-4c0a-bb81-9b96a3e6587d___Matt.S_CG 1249.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\0401adc0-0998-4d8e-90de-4eae8caf4248___RS_Erly.B 8446.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\1bdb9ab4-1a7a-449a-b848-c446d7615d42___RS_Erly.B 8443.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\7fff26be-4802-4778-97cf-96d5a9e4f127___Com.G_TgS_FL 9981.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\76c33a58-09c4-4416-81f4-99c2dc3c280e___YLCV_GCREC 2802.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\3359d10c-2afd-4734-8a71-d19d25a041a6___Com.G_SpM_FL 9016.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\38670ac4-67ad-4b00-a37b-3fb82d58aa86___RS_HL 9762.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\438c4ac5-5409-4859-9fe4-3077af7425b2___RS_HL 0157.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\17f512bf-921f-4c9e-bc1d-24a330e5dd75___Com.G_SpM_FL 8527.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\174d0b38-319e-465d-bdaa-4e32693d0e91___Com.G_SpM_FL 1221.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\8217ab61-6b5f-4874-8046-d801d40cff3d___RS_Late.B 6089.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\e5de9377-3690-48c0-aa3b-45592b342fbe___Com.G_SpM_FL 1241.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\ea727260-767f-4f18-802f-a8105d82d912___RS_Late.B 6245.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\6693c3e5-2445-4c53-80a1-b3a048b9ba7a___Com.G_TgS_FL 0955.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\5f774121-b3b2-46fd-a67c-f4d8caf93e5a___GHLB2ES Leaf 66.1.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\40b67c0a-5dd8-435c-80ed-764593d2147a___RS_Erly.B 7577.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\babbf1f0-1b1c-4618-b739-c948ecf979c5___Keller.St_CG 1767.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\538d20ab-b01e-4d55-ad39-b0fbeb3babbe___Crnl_L.Mold 7002.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\0c779116-043c-4715-b080-16be2e8d2552___PSU_CG 2285.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\3423b48a-9ded-4b8f-b552-1121e156f932___GCREC_Bact.Sp 5894.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\4c518a8d-6ecc-45c2-b14c-f610a400c950___PSU_CG 2370.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\887eab5c-9475-46b7-81df-ea2c5190e7fe___GCREC_Bact.Sp 6026.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\b27c48d1-189e-4187-9535-78dc1c8a803e___RS_Late.B 6789.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\445a32e1-7a18-47e6-9041-3de6707b7ca9___YLCV_NREC 2232.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\459318c1-ddb2-4f9c-b497-6280e1e82b96___JR_Sept.L.S 2635.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\3b990211-ec63-4cb4-a502-ca99b4764dfb___PSU_CG 2126.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\5d987d94-661d-42ed-9b40-b37c926b7c31___GHLB2 Leaf 9031.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\32ecb733-21c8-4abf-91ec-4a17f5697fd9___UF.GRC_YLCV_Lab 08486.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\f77be740-83d8-4c10-a29c-0277a12ef23c___YLCV_GCREC 2098.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\75631753-160d-48e2-ab6a-30649f66b044___Com.G_TgS_FL 8110.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\9261facd-4e65-4cdd-95ae-50fec470f5a4___YLCV_GCREC 2558.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\4541dd58-9728-4492-8729-f4f174d774ac___Crnl_L.Mold 8992.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\7922fafa-294f-4a34-999a-040d1a1a1d44___Crnl_L.Mold 6771.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\75c566a5-8c20-4294-8138-4f06a3c2df7c___PSU_CG 2158.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\5c0dc87a-f671-4085-93c5-1454ee859caf___RS_Late.B 6271.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\119fca56-2a51-4c1f-9ba3-85977da1fd3b___Crnl_L.Mold 6898.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\669eda4d-aa2e-4d84-9146-c96b047eb70e___RS_Erly.B 6369.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\95a0fffa-e8f5-4250-b3ff-a6c57a6a424f___Com.G_SpM_FL 9451.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\994414de-c6a6-4d55-8a61-eb0cd8d930c0___Com.G_TgS_FL 8367.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\0dae2780-43e7-40ac-ae45-95e5318c8f32___PSU_CG 2290.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\5e590575-5588-422f-96a7-5e8c920fc7e2___GHLB2 Leaf 8671.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\ba5de483-365d-4a7c-8340-bf3ca0923a5e___Keller.St_CG 1861.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\812b614b-bad8-4d10-9191-9a614bbdaef3___UF.GRC_YLCV_Lab 01418.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\fca77c0c-ce9f-471c-8db2-ee2929338732___UF.GRC_YLCV_Lab 08477.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\4fdd9d40-d154-40a7-9b0c-80debacb04b7___UF.GRC_YLCV_Lab 09609.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\12d9e5d9-7cd4-4e70-89e5-30581c60d57b___Matt.S_CG 6590.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\4987b5ee-012c-4bcd-854d-7881a50757fd___GCREC_Bact.Sp 3209.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\9bf7479a-5809-48ad-90f7-f4dd4cb9a82b___RS_Late.B 6902.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\ddee35e3-fc0b-4251-adec-dda227bffcd5___Com.G_SpM_FL 1646.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\01f87f04-ff38-4aba-b7d1-587aa06e5282___RS_Erly.B 7851.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\b6d8ce15-f786-4998-a67c-1390da696a07___RS_Erly.B 9521.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\5baabb99-9a77-4b9d-b298-b39042a935d3___Com.G_SpM_FL 1397.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\b96d76c8-4ad5-4bfb-bb21-faed3215583e___GHLB2 Leaf 8723.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\7e25ef0a-7cec-45c2-bc3f-2429b82cafd6___YLCV_GCREC 1896.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\2a2b0821-26eb-4322-a603-1ba569b9de98___JR_Sept.L.S 8513.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\2ecf7371-b3e3-4206-be7c-5a8f3656be8a___Crnl_L.Mold 8921.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\7e7479df-7aac-4b5f-9724-db28ca442a74___GCREC_Bact.Sp 3215.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\1cc31c92-0fbd-488a-b0a2-ef25f985bf13___Com.G_TgS_FL 9840.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\f983209a-7b7c-43f3-b86a-bd9bc7e29c96___PSU_CG 2287.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\bb7e22d2-f187-4358-a78a-0ea71ecfadcb___RS_HL 9818.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\4c3efc57-6a59-4d52-bd77-1dd4efbfba72___JR_Sept.L.S 2614.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\5b0cd135-94b9-4591-966c-0257a0beea5e___JR_Sept.L.S 8486.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\0185befe-f0b5-4848-9677-f33c2237f4e9___Crnl_L.Mold 8729.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\bfe4e207-18c5-46cb-9022-0a94c6826f81___PSU_CG 2234.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\8a01c89e-3a9f-465a-ac47-79cc99f5ffaa___PSU_CG 2329.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\6374877d-fcc6-4a2a-97de-e4d0c157ffae___PSU_CG 2068.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\500ac3b7-1e92-4cd1-8c80-9e5270cf02d4___GCREC_Bact.Sp 6210.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\b2622141-87e3-4d73-8eb0-21401f3bbab5___PSU_CG 2144.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\0be8de3c-4851-46ec-86d9-65688d4aad7f___YLCV_NREC 2410.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\8f1b814d-d9c9-4093-8b6e-6d3a58133d55___RS_Late.B 6771.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\698d4680-5dca-497c-a8c9-9978d8e0052a___GCREC_Bact.Sp 6246.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\1d31b822-7933-4801-a18c-657b8af377d6___RS_HL 0636.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\89226dd4-357b-4532-82d6-adeb7724e5e8___RS_Late.B 5387.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\091238ce-b84c-4629-a8b2-ba78254bd2e0___Crnl_L.Mold 8788.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\297feea8-4707-4d39-a6af-b1c0e3403935___RS_Erly.B 7816.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\f3e90f86-4d46-4547-a821-282c4d57326a___YLCV_NREC 2059.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\fd5fba19-588d-4053-beef-c77be7b3db95___Com.G_TgS_FL 8044.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\2a6aa96a-1916-4d47-932a-9eda7ca46c91___Com.G_SpM_FL 8497.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\9eaef8d7-dd22-449e-b837-d01a7eb4afe6___RS_Erly.B 7686.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\3b97d56b-a10d-4518-a332-a16f58238d6c___RS_HL 0240.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\34986eb3-fe72-473a-8614-450a85f20c2c___UF.GRC_YLCV_Lab 03072.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\b96efa85-1d48-4a5e-9c80-4b1848182c93___RS_Late.B 6961.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\cd97ced1-2870-4f00-b7c7-37b8903378b9___RS_Late.B 6926.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\14d46dfe-5348-428c-af6b-82b6625ce6c3___GH_HL Leaf 483.1.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\ec90f802-c6ed-4df1-93fe-e25a4d668479___Com.G_TgS_FL 0693.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\ec754608-21ce-40be-abd0-46a664257065___RS_HL 0376.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\8b2de2f4-1f12-46a7-ae3c-85fe9bd6ab6e___RS_Erly.B 7574.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\dcb74f2b-c523-4147-b9ce-690800411273___PSU_CG 2154.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\13358e3d-69ae-40e0-9b04-6d3237ffeded___Com.G_TgS_FL 0993.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\fab1e254-f251-41ee-9e9e-a7ef7c2541ba___Com.G_SpM_FL 1417.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\4a5b0a30-27ff-400d-ad0c-0ee1e68df21b___UF.GRC_YLCV_Lab 02840.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\526f929e-e9c1-4ca5-a493-c0bcf4898b04___Crnl_L.Mold 9129.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\922416fb-0c08-4edd-894b-bbea0ba183f3___GCREC_Bact.Sp 5900.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\7cf98788-6726-455c-9b6b-0163e80d4c0d___GCREC_Bact.Sp 3733.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\170e86b9-f51d-49a6-a992-15e00c85ee5d___GH_HL Leaf 189.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\a4917ff1-44a6-4f13-bb49-9368acb3a7e9___PSU_CG 2069.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\8e6025ac-c6d3-412a-9fec-946247f6ca08___GH_HL Leaf 461.3.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\0d515778-61ef-4f0b-ab54-75607c80220f___RS_HL 9745.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\cbda1b76-250a-4bce-aa3d-1b04feeca6d7___RS_HL 9707.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\afce59f4-80da-4337-af46-09e309fd7469___Matt.S_CG 6825.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\8eb8581e-fe35-432a-bb91-6e4d01e20d86___Matt.S_CG 7696.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\c8354c3a-5436-4006-9551-b95d7b2b5566___YLCV_NREC 2292.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\738b2359-39ac-465b-8d8e-43dc842a280e___Crnl_L.Mold 6535.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\bf4d8522-a43c-40ee-afd2-d5fb78ac3630___Matt.S_CG 6354.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\c05c1b58-b391-41d4-bdd4-72f82b59a508___Crnl_L.Mold 8926.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\fc7a8fc7-28d5-4fd5-90d4-8a726063fe46___Matt.S_CG 7565.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\bf0ce672-d1b8-49a7-a41e-5026715930e9___GCREC_Bact.Sp 6040.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\dfce64d1-9954-4922-8beb-2681e2e6b896___GCREC_Bact.Sp 2961.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\85908ad9-57a4-402e-b9c3-3907b452d26b___JR_Sept.L.S 8566.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\e1b0584e-fa68-446c-85e1-1658252585db___Com.G_TgS_FL 1125.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\3edb3c6a-ff33-4ace-a754-0d807ef8019a___Matt.S_CG 2578.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\7063b4ca-978d-420f-9dd2-85827f7b7a43___YLCV_NREC 2505.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\adb15e56-fb9c-4b1f-aae1-4ec8bedecd1b___RS_HL 9712.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\d84f5ea2-462a-40e2-8b01-916a65588aaf___GHLB_PS Leaf 22 Day 9.jpg",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\b98b4279-5ffc-4314-a3c4-1fc05e3b0aec___Crnl_L.Mold 6844.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\306ea7af-ad33-45cd-bbc5-cf92c16c73f9___YLCV_GCREC 5385.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\e803b217-d9a9-4b0d-9ea1-679145625159___RS_Erly.B 9571.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\7c4ba770-64bf-4cd5-82ea-c5e2a16d81f3___RS_Erly.B 9556.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\5b626f17-8c30-4b6e-bd66-8da2b7476326___RS_HL 9851.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\9e6ab532-2a3a-4415-98b5-a1be716eef9c___Crnl_L.Mold 6619.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\f1b0ad53-6f2a-44bd-9f58-da590c9cdde2___GH_HL Leaf 371.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\355edec8-e1bd-4f57-afa3-cbf03c2f06b1___GCREC_Bact.Sp 3353.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\1f4c9f8a-5672-4e47-84dd-55f85f953174___RS_Erly.B 7582.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\e6b6cab1-56f9-429f-b89f-110c0128d5be___Crnl_L.Mold 7098.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\2cdc89df-d398-4dd6-98ff-d3433a681af0___UF.GRC_YLCV_Lab 01410.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\542e3014-3c3c-40c2-bf7e-73287f5302e4___GCREC_Bact.Sp 3157.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\e85d64bf-a47c-4d80-8eb8-9059c1eec9a9___GCREC_Bact.Sp 5790.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\f7c52821-b74c-486c-bf18-e0cbcba2adac___YLCV_GCREC 5142.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\67428adc-ca72-4ad8-b042-2663d6efb864___Com.G_TgS_FL 1127.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\a13f6997-e1f9-49ac-8f8a-61bfbc0ba77f___YLCV_NREC 0194.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\7ddb3878-8899-42bd-8ec1-5ee012f30cf2___PSU_CG 2188.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\38bd9a88-970a-4480-8bc7-12824ac87ff5___Crnl_L.Mold 7085.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\0e03c87e-b43f-4cfe-a837-71306c68f4c0___RS_Erly.B 7733.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\cfeccc25-2247-486f-aad0-f0cbec4d3fc7___Matt.S_CG 6655.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\407dfa44-d54a-498c-a78b-6b32dcbeffb9___Com.G_TgS_FL 8379.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\6bde0aa8-4093-4eb1-aa1e-049db77d16a2___UF.GRC_BS_Lab Leaf 8873.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\8f4781c0-53fa-4056-839e-400915d8aa5e___Crnl_L.Mold 6683.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\b313c827-af8b-4b98-af86-a7b07bf20dc1___Com.G_SpM_FL 9307.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\ae240844-37fa-4111-86e0-7d7def9416b6___Com.G_TgS_FL 8322.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\cd0122a3-9aa1-4214-8b76-df498d6aacc5___Com.G_SpM_FL 8708.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\82b74161-fb08-43fd-b3b9-7f4f0d90a8a9___Com.G_SpM_FL 8425.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\a6554b90-541e-4672-a943-b55ad6a626bb___YLCV_NREC 2562.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\b06c3d4e-04cf-4eff-82fa-4553264a21e0___JR_Sept.L.S 2615.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\952327b8-3fd4-4953-9a40-4d033b0eae9a___Com.G_TgS_FL 1079.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\0e669afb-1315-4903-b7ca-1a0ffa95d454___RS_Late.B 5626.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\a710379a-3b85-435c-8b46-7a177b42ff52___GHLB2 Leaf 8906.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\a05d577d-ebe7-44e3-9ac0-e6e742e34f1a___Crnl_L.Mold 9164.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\666b3b4d-5510-4413-88cd-838fffe72003___RS_HL 0098.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\5f6523e1-d5f2-44d9-a4a3-ae4a72a8a6cd___PSU_CG 2237.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\5e9d7d56-4b5c-46d1-b036-0c1a8a02245d___Com.G_TgS_FL 7990.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\8a61a73f-659f-4ebf-95e6-29ecb8184098___Com.G_TgS_FL 8265.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\4df870d2-ebc9-4ed1-849d-3e7bb826a3e2___UF.GRC_YLCV_Lab 09517.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\ec3bb20a-2c19-421b-a4ce-7c06f18914eb___RS_HL 0609.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\67ccd0d2-9b55-48a7-b093-a616d9c57845___PSU_CG 2307.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\b21a4d9d-2b2c-4698-b756-7538037d67bd___Com.G_TgS_FL 9705.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\af156939-f96f-4b7a-bd93-a5ebde95fc14___Com.G_TgS_FL 1036.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\e87f8d6a-9728-4d12-b6b3-e07c77db939b___RS_Erly.B 9576.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\69726f1b-4d1c-4647-aef2-090e57246501___PSU_CG 2131.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\4f6876e9-7226-49d5-aef8-cec3d8e6fbc9___RS_Erly.B 9452.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\2998c7f2-9f4f-4734-aa39-403dd7211869___RS_Erly.B 7528.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\c259c11b-b958-4179-b09f-47e69419941a___Crnl_L.Mold 6803.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\9a5845de-1487-402e-ab3d-bdd3ccf48175___Crnl_L.Mold 6809.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\29f6e3c2-0bf9-42fe-9a39-aef42acd5191___RS_Erly.B 9480.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\069e7256-c9ac-4544-a89c-54a1ebf4ed23___Matt.S_CG 2434.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\c9258e44-7f45-4baf-8140-69d4857c56ee___GHLB_PS Leaf 45 Day 18.jpg",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\6804695f-56f8-4ff9-90f8-69ee95097463___PSU_CG 2067.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\e2085395-2d3c-4698-ad7f-da9fdc73c4d1___GH_HL Leaf 254.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\aede12d4-2bc7-499e-98e3-8babc4d50590___Com.G_SpM_FL 1641.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\0f0fc0ee-b19b-4f90-ab41-8f693131f57d___RS_HL 9890.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\27dd7c54-809f-445e-97a5-ba0792d4592b___RS_Late.B 6371.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\6cace5f6-3589-4fb9-bb64-bee6872b8467___UF.GRC_BS_Lab Leaf 0299.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\231be16a-304a-48ce-a243-0b4d95c59681___GHLB2 Leaf 121.2.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\c56b4a9c-dd6f-48ac-ac94-c4fbf6194031___GH_HL Leaf 364.1.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\0b5e2269-7b37-43ac-9a96-c62b9bba2383___PSU_CG 2243.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\7bd0f0c4-082e-4da4-ade1-a1d79637949c___GCREC_Bact.Sp 3664.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\722e11c3-9b08-4192-9ad0-142e9240914c___Crnl_L.Mold 8920.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\41f98f75-b866-4393-8b0b-f72c008fe250___Com.G_SpM_FL 8468.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\07324d80-17c5-4541-9702-62e9c744ac07___RS_Erly.B 7455.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\aeec2942-315c-4297-90a2-4dc24f491a5c___Crnl_L.Mold 6925.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\ba7494ac-d7ea-4068-84b5-33d975afc328___Com.G_TgS_FL 8321.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\4ad85b66-43f0-476f-aee4-a320e793a42f___Com.G_SpM_FL 8645.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\b1d3871c-934c-4992-b9e8-bb74271c0ca2___UF.GRC_YLCV_Lab 03027.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\0c221e01-a85e-4794-b45b-3a91e349a8d2___RS_Erly.B 6425.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\9c6749a6-781b-4700-bf38-d7e441a593d9___Com.G_SpM_FL 1394.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\f553bfab-4666-4e9d-a0fc-311e034a3e10___YLCV_NREC 2715.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\915d8bb1-5ea3-4f00-abdc-dda166e93d3d___Com.G_TgS_FL 8037.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\74c6ce09-ee11-4d57-ae56-c4fdcb0f6c3b___Matt.S_CG 7481.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\9bfadeb9-dc2c-45fb-b687-7ae6f3dcc906___UF.GRC_BS_Lab Leaf 8789.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\25bb0739-cbd4-4e75-a6f4-67ca5cc7f986___GHLB2 Leaf 8789.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\b69edd18-e303-41b5-92a7-769154106917___RS_Erly.B 7587.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\2503cc16-ff09-4437-9d4b-4316e2c32764___GH_HL Leaf 235.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\e6d80617-a531-4fc9-8c0f-cabc7e95d3ce___Com.G_TgS_FL 7900.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\1d89d788-438c-4cee-9403-6fd8ac9863de___PSU_CG 2254.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\d53047af-8624-4c80-a2be-8aa9ea6f0a35___PSU_CG 2208.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\591ec786-c9bb-4054-be3a-055f0dbecbd2___RS_Erly.B 7416.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_mosaic_virus\\dd1161b0-ed4e-42f0-a63b-1ff8d9adf3ed___PSU_CG 2405.JPG",
+      8
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\fec3ef0e-de4a-4261-b593-5c1571c6e890___Com.G_TgS_FL 8173.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\d438e170-4830-4099-9cca-284ecf95b6be___YLCV_NREC 2860.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\5f3285ca-687c-4466-8581-93eb7d8a6af5___Crnl_L.Mold 6686.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\176dc34e-840a-40ae-889f-4e945d0de77d___GHLB2 Leaf 9000.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\f7a859bc-fcd9-4317-8ce6-f2af5ac56431___Com.G_TgS_FL 9692.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\70e2244d-152b-4dc7-b002-5991e1a195db___RS_HL 9948.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\e9392a5e-2fac-48c5-a23d-df3aa3f61048___GH_HL Leaf 217.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\ad1cf4ce-7321-42e0-b094-0445a93771eb___YLCV_GCREC 2673.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\673e781f-05e7-4ad4-bd44-ec339161868e___Com.G_TgS_FL 9755.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\1f8c98e1-b5ff-48eb-b676-7c51e99a1329___GCREC_Bact.Sp 5919.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\661a456b-bd86-4c75-951f-0accf26ea4aa___Crnl_L.Mold 8955.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\c3fbdba4-a285-463b-a3fd-26d0d4a4d936___GCREC_Bact.Sp 3677.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Leaf_Mold\\9d8d2581-16a2-4151-9434-8ab9df3f632b___Crnl_L.Mold 8737.JPG",
+      4
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___healthy\\ed76421e-84e4-408b-a1b3-c6164867b3d2___RS_HL 0560.JPG",
+      2
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\a1baad36-b4e1-48d2-9d4f-99c561613ab1___Com.G_TgS_FL 8036.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\dc2fe7ba-75e9-41de-86bb-b8c3499340a7___UF.GRC_YLCV_Lab 01785.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Early_blight\\4e24576f-00c2-494f-b47b-b2b3885b4749___RS_Erly.B 8279.JPG",
+      1
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\ae4f0633-5636-47ef-9e69-0dbe2404f2c3___Com.G_SpM_FL 8888.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\bff7702d-fae9-4865-8256-c82a7bbcdeb1___GCREC_Bact.Sp 3750.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\cf724383-bfe7-454a-9f22-bb59072d56ae___RS_Late.B 5442.JPG",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\5a6127d7-01c4-45a4-8ee9-fa61266f57e4___Com.G_SpM_FL 1574.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\a448f28f-6c67-4dff-852b-925421141eee___GCREC_Bact.Sp 5554.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\38f15749-918a-472e-b9c4-646543ad08aa___Com.G_TgS_FL 0827.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\f1657ef6-fb99-47a4-87d2-c6bf646ef1ef___UF.GRC_YLCV_Lab 02533.JPG",
+      9
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\8b0db49a-127f-47e5-b942-a869a028903a___Com.G_TgS_FL 0717.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\8478585d-5f2a-463b-9752-e1f730a31050___Com.G_TgS_FL 1006.JPG",
+      7
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Late_blight\\98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg",
+      3
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\5def221c-54e3-4322-ba12-327adcd50dee___GCREC_Bact.Sp 3014.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\4126165c-f9e0-4a17-9d87-d41bf356afb9___GCREC_Bact.Sp 3517.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Spider_mites Two-spotted_spider_mite\\989cea27-2233-441c-b2cc-f5166e3582f1___Com.G_SpM_FL 8846.JPG",
+      6
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Bacterial_spot\\e898c21e-d118-4ab7-8c8a-c7e5810e2bc6___UF.GRC_BS_Lab Leaf 8693.JPG",
+      0
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Septoria_leaf_spot\\97862022-bdbb-4641-b2e7-daa77f5f03d5___JR_Sept.L.S 2553.JPG",
+      5
+    ],
+    [
+      "data\\archive\\plantvillage dataset\\color\\Tomato___Target_Spot\\05afadf4-12e7-478e-bb0c-334e2bf553f3___Com.G_TgS_FL 0744.JPG",
+      7
+    ]
+  ],
+  "classes": [
+    "Tomato___Bacterial_spot",
+    "Tomato___Early_blight",
+    "Tomato___healthy",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___Septoria_leaf_spot",
+    "Tomato___Spider_mites Two-spotted_spider_mite",
+    "Tomato___Target_Spot",
+    "Tomato___Tomato_mosaic_virus",
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+  ],
+  "seed": 42,
+  "crop": "Tomato",
+  "max_per_class": 300
+}

@@ -1,0 +1,144 @@
+{
+  "Tomato___Bacterial_spot": {
+    "display_name": "Tomato - Bacterial Spot",
+    "cause": "Bacterium (Xanthomonas spp.)",
+    "symptoms": "Small, water-soaked, dark brown to black spots on leaves, often surrounded by a yellow halo. Advanced stages cause leaf drop and fruit spotting.",
+    "advice": [
+      "Avoid overhead watering; use drip irrigation or water at the base of the plant to keep leaves dry.",
+      "Remove and safely destroy severely infected lower leaves and plant debris (do not compost).",
+      "Sanitize pruning tools and stakes between plants using a dilute bleach or alcohol solution.",
+      "Practice a 2-3 year crop rotation with non-solanaceous crops (avoid planting after peppers, potatoes, or eggplants).",
+      "Consult your local agricultural extension office or authorized plant clinic for region-approved copper-based bactericides or bio-control agents if disease pressure is high."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Early_blight": {
+    "display_name": "Tomato - Early Blight",
+    "cause": "Fungus (Alternaria solani)",
+    "symptoms": "Brown to black spots with concentric rings (target-like pattern), usually starting on older, lower leaves. Leaves turn yellow around spots and drop prematurely.",
+    "advice": [
+      "Prune and dispose of infected lower foliage to reduce splashing of fungal spores from the soil.",
+      "Apply organic mulch (straw, dried grass) around the plant base to create a physical barrier preventing soil splash onto foliage.",
+      "Space plants adequately to ensure good air circulation and sunlight penetration.",
+      "Avoid working in the field when foliage is wet.",
+      "Consult your local agriculture officer or university extension service regarding recommended protective bio-fungicides or copper sprays."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Late_blight": {
+    "display_name": "Tomato - Late Blight",
+    "cause": "Oomycete pathogen (Phytophthora infestans)",
+    "symptoms": "Large, irregular, water-soaked dark lesions on leaves and stems. White, fuzzy fungal-like growth may appear on the undersides of leaves in humid or cool conditions.",
+    "advice": [
+      "Late blight is aggressive and spreads rapidly in cool, humid weather; monitor plants daily.",
+      "Immediately isolate or remove infected plants and bag them securely for disposal (burn or bury deeply away from crops).",
+      "Do not compost infected plant parts as spores can survive and spread.",
+      "Ensure proper row spacing and avoid overhead irrigation to keep foliage dry.",
+      "Contact your local agriculture extension department immediately for community-wide alerts and approved preventive fungicides."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Leaf_Mold": {
+    "display_name": "Tomato - Leaf Mold",
+    "cause": "Fungus (Passalora fulva)",
+    "symptoms": "Pale greenish-yellow spots on upper leaf surfaces; olive-green or grayish velvety mold on the underside of corresponding areas. Common in greenhouses and high humidity.",
+    "advice": [
+      "Improve air circulation and ventilation around plants by pruning excess suckers and widening plant spacing.",
+      "Reduce relative humidity below 85% if growing in greenhouses, polyhouses, or tunnels.",
+      "Water early in the morning and at ground level so foliage dries quickly.",
+      "Sanitize greenhouse structures, tools, and stakes at the end of the season.",
+      "Seek guidance from a local agriculture expert for suitable registered fungicides if persistent."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "display_name": "Tomato - Septoria Leaf Spot",
+    "cause": "Fungus (Septoria lycopersici)",
+    "symptoms": "Numerous small, circular spots with dark brown margins and sunken grayish or tan centers. Tiny black specks (pycnidia) can often be seen inside the spots.",
+    "advice": [
+      "Remove and destroy infected bottom leaves as soon as first spots appear.",
+      "Mulch heavily around tomato plants to stop fungal spores from splashing up from contaminated soil.",
+      "Avoid overhead watering and do not touch or prune plants when wet.",
+      "Rotate crops every 2-3 years away from nightshades.",
+      "Discuss appropriate fungicidal spray schedules with a local agricultural extension advisor."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "display_name": "Tomato - Two-Spotted Spider Mites",
+    "cause": "Arachnid Pest (Tetranychus urticae)",
+    "symptoms": "Fine yellow or white stippling (tiny dots) on upper leaf surfaces. Leaves may turn bronze or dry out. Fine silken webbing can be observed on leaf undersides and shoot tips.",
+    "advice": [
+      "Spray the undersides of leaves with a strong jet of clean water to dislodge mites and disrupt webs.",
+      "In hot and dry conditions, apply insecticidal soap or neem oil spray thoroughly covering the leaf undersides in late afternoon.",
+      "Encourage beneficial predatory mites or predatory lady beetles in the field.",
+      "Avoid excessive synthetic nitrogen fertilizers, which promote rapid, tender growth favored by spider mites.",
+      "Consult your local agricultural extension service for integrated pest management (IPM) recommendations."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Target_Spot": {
+    "display_name": "Tomato - Target Spot",
+    "cause": "Fungus (Corynespora cassiicola)",
+    "symptoms": "Small, pinpoint brown spots on leaves that expand into circular brown lesions with distinct concentric rings and yellow halos.",
+    "advice": [
+      "Maintain wide plant spacing and prune lower leaves to promote rapid drying of foliage.",
+      "Use drip irrigation to prevent moisture accumulation on canopy leaves.",
+      "Clear fallen leaves and plant debris from beds at regular intervals.",
+      "Rotate away from susceptible crops such as peppers, cucumbers, and tomatoes.",
+      "Consult local agricultural extension specialists for approved protectant fungicide choices."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "display_name": "Tomato - Yellow Leaf Curl Virus (TYLCV)",
+    "cause": "Begomovirus (Transmitted by Whiteflies - Bemisia tabaci)",
+    "symptoms": "Severe upward curling and cupping of leaflets, marked yellowing (chlorosis) of leaf margins, stunted bushy growth, and severe blossom drop.",
+    "advice": [
+      "Manage whitefly vectors using yellow sticky traps, insect exclusion netting, or reflective silver mulches.",
+      "Carefully pull up and bag severely stunted, infected plants immediately to prevent whiteflies from vectoring the virus to healthy plants.",
+      "Spray neem oil or organic insecticidal soap targeting whitefly populations under leaf surfaces.",
+      "Choose certified TYLCV-resistant or tolerant tomato varieties for future planting seasons.",
+      "Contact your local agricultural extension officer for regional whitefly monitoring and containment protocols."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "display_name": "Tomato - Tomato Mosaic Virus (ToMV)",
+    "cause": "Tobamovirus (Mechanically transmitted)",
+    "symptoms": "Mottled light and dark green patterns (mosaic) on foliage, leaf distortion or shoestringing, and stunted plant vigor.",
+    "advice": [
+      "ToMV spreads mechanically on hands, clothing, tools, and pruning shears; wash hands and disinfect tools thoroughly before handling plants.",
+      "Smokers or tobacco users should wash hands with soap and water before entering fields, as tobacco products can harbor related viruses.",
+      "Carefully rogue (remove and destroy) infected plants to prevent transmission across neighboring plants.",
+      "Select certified virus-free seeds and virus-resistant tomato cultivars for your next planting.",
+      "Consult your local agricultural department for testing kits or confirmation if extensive spread is suspected."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  },
+  "Tomato___healthy": {
+    "display_name": "Tomato - Healthy Leaf",
+    "cause": "None (Plant appears healthy)",
+    "symptoms": "Uniform green leaf texture, no noticeable lesions, spots, yellowing, or abnormal curling.",
+    "advice": [
+      "Continue standard good agricultural practices: balanced fertilization and consistent drip irrigation.",
+      "Scout your crop weekly by inspecting both upper and lower leaf surfaces for early signs of pests or disease.",
+      "Maintain proper weed management around crop borders to prevent insect vectors from harboring nearby.",
+      "Keep records of weather patterns (high humidity or rainfall) to anticipate disease pressure proactively."
+    ],
+    "disclaimer": "Regularly consult local agricultural extension resources for seasonal crop care schedules."
+  },
+  "default": {
+    "display_name": "Crop Disease Detected",
+    "cause": "Fungal, bacterial, viral, or pest issue",
+    "symptoms": "Visible changes in leaf coloration, spots, wilting, or structural damage.",
+    "advice": [
+      "Isolate affected plants if feasible to prevent spread to adjacent crops.",
+      "Avoid overhead irrigation and keep foliage dry to limit fungal and bacterial pathogen spread.",
+      "Sanitize tools and wash hands before moving to healthy sections of the field.",
+      "Take a clear sample or high-resolution photograph to your local agricultural extension service or certified crop advisor for exact identification and treatment options."
+    ],
+    "disclaimer": "Always consult a local agricultural extension officer or certified agronomist before applying chemical treatments."
+  }
+}
+
